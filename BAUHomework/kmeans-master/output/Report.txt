@@ -1,0 +1,44 @@
+Below you can find the output of the 5 iterations of k-means algorithm. Output contains the iteration number,
+number of inner iterations that satisfies clusters are determined and detailed cluster information.
+
+In the cluster detail, you can find cluster number, SSE (sum of the squared error), cluster size and 
+cluster centroid values of 4 attributes.
+
+According to result, k-means is good at separating clusters. And according to plot3d_3.png (sepal length, 
+petal length, petal width are used to plot) and plot3d_4.png (sepal width, petal length, petal width are 
+used to plot), clusters are natural. Data in each cluster are far from each other.
+
+Outer iterations #:0
+Number of inner iterations:3
+
+Centroid:0;	Cluster Size: 50;	SSE:97.35;	SepalLength:5.01;	SepalWidth:3.41;	PetalLength:1.46;	PetalWidth:0.24;	Cluster Index:0
+Centroid:1;	Cluster Size: 39;	SSE:97.35;	SepalLength:6.86;	SepalWidth:3.08;	PetalLength:5.71;	PetalWidth:2.05;	Cluster Index:1
+Centroid:2;	Cluster Size: 61;	SSE:97.35;	SepalLength:5.88;	SepalWidth:2.74;	PetalLength:4.39;	PetalWidth:1.43;	Cluster Index:2
+
+Outer iterations #:1
+Number of inner iterations:5
+
+Centroid:0;	Cluster Size: 50;	SSE:97.33;	SepalLength:5.01;	SepalWidth:3.42;	PetalLength:1.46;	PetalWidth:0.24;	Cluster Index:0
+Centroid:1;	Cluster Size: 62;	SSE:97.33;	SepalLength:5.90;	SepalWidth:2.75;	PetalLength:4.39;	PetalWidth:1.43;	Cluster Index:1
+Centroid:2;	Cluster Size: 38;	SSE:97.33;	SepalLength:6.85;	SepalWidth:3.07;	PetalLength:5.74:	PetalWidth:2.07;	Cluster Index:2
+
+Outer iterations #:2
+Number of inner iterations:8
+
+Centroid:0;	Cluster Size: 50;	SSE:97.33;	SepalLength:5.01;	SepalWidth:3.42;	PetalLength:1.46;	PetalWidth:0.24;	Cluster Index:0
+Centroid:1;	Cluster Size: 62;	SSE:97.33;	SepalLength:5.90;	SepalWidth:2.75;	PetalLength:4.39;	PetalWidth:1.43;	Cluster Index:1
+Centroid:2;	Cluster Size: 38;	SSE:97.33;	SepalLength:6.85;	SepalWidth:3.07;	PetalLength:5.74:	PetalWidth:2.07;	Cluster Index:2
+
+Outer iterations #:3
+Number of inner iterations:7
+
+Centroid:0;	Cluster Size: 24;	SSE:123.85;	SepalLength:4.74;	SepalWidth:2.95;	PetalLength:1.75;	PetalWidth:0.33;	Cluster Index:0
+Centroid:1;	Cluster Size: 96;	SSE:123.85;	SepalLength:6.31;	SepalWidth:2.90;	PetalLength:4.97;	PetalWidth:1.70;	Cluster Index:1
+Centroid:2;	Cluster Size: 30;	SSE:123.85;	SepalLength:5.22;	SepalWidth:3.64;	PetalLength:1.47;	PetalWidth:0.28;	Cluster Index:2
+
+Outer iterations #:4
+Number of inner iterations:11
+
+Centroid:0;	Cluster Size: 50;	SSE:97.35;	SepalLength:5.01;	SepalWidth:3.41;	PetalLength:1.46;	PetalWidth:0.24;	Cluster Index:0
+Centroid:1;	Cluster Size: 39;	SSE:97.35;	SepalLength:6.86;	SepalWidth:3.08;	PetalLength:5.71;	PetalWidth:2.05;	Cluster Index:1
+Centroid:2;	Cluster Size: 61;	SSE:97.35;	SepalLength:5.88;	SepalWidth:2.74;	PetalLength:4.39;	PetalWidth:1.43;	Cluster Index:2

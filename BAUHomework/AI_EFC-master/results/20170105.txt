@@ -1,0 +1,44 @@
+Guard:00011000011 - Forward:000001001111011101011 - Center:0000110110111100001100 - Fitness:126.9 - Cost:494.7
+Guard:
+Brad Wanamaker-14.5-57.9
+Luka Doncic-12.1-48.4
+Forward:
+Keith Langford-26.7-106.7
+Brandon Paul-11.3-38.2
+Sinan Guler-11.2-44.8
+Jeffery Taylor-5.5-15.1
+Center:
+Derrick Brown-20.0-80.0
+Khem Birch-13.1-52.4
+Andrey Vorontsevich-8.4-33.6
+Jonathan Holmes-4.1-17.6
+
+Guard:00001101001 - Forward:000001001111100101011 - Center:0000110110111100010000 - Fitness:128.8 - Cost:499.6
+Guard:
+Shane Larkin-17.2-68.7
+Janis Strelnieks-12.1-48.3
+Forward:
+Keith Langford-26.7-106.7
+Brandon Paul-11.3-38.2
+Darius Miller-11.0-43.9
+Jeffery Taylor-5.5-15.1
+Center:
+Derrick Brown-20.0-80.0
+Khem Birch-13.1-52.4
+Andrey Vorontsevich-8.4-33.6
+Patric Young-3.5-12.7
+
+Guard:00000000010 - Forward:000001001111011101011 - Center:0000111000010011010111 - Fitness:128.9 - Cost:499.1
+Guard:
+Nick Calathes-20.2-81.0
+Quino Colom-15.3-61.1
+Forward:
+Keith Langford-26.7-106.7
+Brandon Paul-11.3-38.2
+Sinan Guler-11.2-44.8
+Jeffery Taylor-5.5-15.1
+Center:
+Derrick Brown-20.0-80.0
+Austin Daye-12.6-49.6
+Victor Khryapa-4.2-16.8
+Pavel Antipov-1.9-5.8

@@ -1,0 +1,141 @@
+Results: Hill Climbing
+Guard:00001000101 - Forward:000011001011100001111 - Center:000010101110011001011 - Fitness:129.79999999999998 - Cost:500.0
+Guard:
+Nick Calathes-20.0-79.9
+Can Korkmaz-7.0-17.3
+Forward:
+Tyler Honeycutt-17.0-68.0
+Fabien Causeur-11.8-43.2
+D.J. Seeley-9.1-36.3
+Kostas Papanikolaou-7.8-26.9
+Center:
+Nicolo Melli-20.9-83.7
+Paulius Jankunas-17.2-68.7
+Miroslav Raduljica-10.3-41.3
+Maik Zirbes-8.7-34.7
+
+Guard:00110011001 - Forward:000000001110010101010 - Center:000101011011011100110 - Fitness:129.4 - Cost:499.9
+Guard:
+Ricky Hickman-12.9-51.5
+Can Korkmaz-7.0-17.3
+Forward:
+Keith Langford-24.3-97.4
+Andrew Goudelock-15.9-63.8
+Kostas Papanikolaou-7.8-26.9
+DeShaun Thomas-7.0-28.0
+Center:
+Derrick Brown-20.1-80.2
+Jan Vesely-12.9-51.5
+Ioannis Bourousis-12.0-47.8
+Victor Claver-9.5-35.5
+
+Guard:00001110011 - Forward:000000010010011000111 - Center:000110011100111101001 - Fitness:128.9 - Cost:499.5
+Guard:
+Sergio Llull-19.5-77.8
+Can Korkmaz-7.0-17.3
+Forward:
+Keith Langford-24.3-97.4
+Vassilis Spanoulis-15.7-62.9
+Blake Schilb-10.1-37.9
+D.J. Seeley-9.1-36.3
+Center:
+Derrick Brown-20.1-80.2
+Victor Claver-9.5-35.5
+Andrey Vorontsevich-7.8-31.0
+Kenny Gabriel-5.8-23.2
+
+Results: alpha beta
+
+Guard:00101110010 - Forward:000000010111110011110 - Center:000000101101010001100 - Fitness:129.3 - Cost:500.0
+Guard:
+Tyrese Rice-13.1-52.5
+Can Korkmaz-7.0-17.3
+Forward:
+Keith Langford-24.3-97.4
+Matt Lojeski-13.9-55.6
+James Anderson-8.7-34.9
+Kostas Papanikolaou-7.8-26.9
+Center:
+Ekpe Udoh-20.9-83.8
+Jan Vesely-12.9-51.5
+Othello Hunter-11.2-44.6
+Victor Claver-9.5-35.5
+
+Guard:00000010110 - Forward:010010111011101010001 - Center:000010110010110111011 - Fitness:130.1 - Cost:497.8
+Guard:
+Milos Teodosic-22.0-88.1
+Can Korkmaz-7.0-17.3
+Forward:
+Juan Carlos Navarro-12.8-51.2
+Fabien Causeur-11.8-43.2
+Cory Higgins-11.3-44.3
+Kostas Papanikolaou-7.8-26.9
+Center:
+Nicolo Melli-20.9-83.7
+Art Parakhouski-15.1-60.2
+Ante Tomic-11.9-47.4
+Victor Claver-9.5-35.5
+
+Guard:00010100000 - Forward:000000111010100000100 - Center:000010110100001010011 - Fitness:129.8 - Cost:499.5
+Guard:
+Shane Larkin-17.6-70.6
+Can Korkmaz-7.0-17.3
+Forward:
+Keith Langford-24.3-97.4
+Will Clyburn-12.3-49.1
+Blake Schilb-10.1-37.9
+Kostas Papanikolaou-7.8-26.9
+Center:
+Nicolo Melli-20.9-83.7
+Art Parakhouski-15.1-60.2
+Victor Claver-9.5-35.5
+Augusto Lima-5.2-20.9
+
+
+Heuristic Init:
+
+Guard:00001110011 - Forward:010010111011101000110 - Center:000010110010011110101 - Fitness:130.1 - Cost:499.4
+Guard:
+Sergio Llull-19.5-77.8
+Can Korkmaz-7.0-17.3
+Forward:
+Juan Carlos Navarro-12.8-51.2
+Fabien Causeur-11.8-43.2
+Cory Higgins-11.3-44.3
+Blake Schilb-10.1-37.9
+Center:
+Nicolo Melli-20.9-83.7
+Art Parakhouski-15.1-60.2
+Colton Iverson-12.1-48.3
+Victor Claver-9.5-35.5
+
+Guard:00000010110 - Forward:010010111011101010001 - Center:000010110111011111001 - Fitness:130.5 - Cost:500.0
+Guard:
+Milos Teodosic-22.0-88.1
+Can Korkmaz-7.0-17.3
+Forward:
+Juan Carlos Navarro-12.8-51.2
+Fabien Causeur-11.8-43.2
+Cory Higgins-11.3-44.3
+Kostas Papanikolaou-7.8-26.9
+Center:
+Nicolo Melli-20.9-83.7
+Bryant Dunston-15.0-60.1
+Jamel McLean-12.4-49.7
+Victor Claver-9.5-35.5
+
+Best Chrome:
+Guard:00000010110 - Forward:000010111011000001010 - Center:000010110011100000010 - Fitness:130.3 - Cost:500.0
+Guard:
+Milos Teodosic-22.0-88.1
+Can Korkmaz-7.0-17.3
+Forward:
+Tyler Honeycutt-17.0-68.0
+Rudy Fernandez-12.6-50.3
+Fabien Causeur-11.8-43.2
+Kostas Papanikolaou-7.8-26.9
+Center:
+Nicolo Melli-20.9-83.7
+Art Parakhouski-15.1-60.2
+Othello Hunter-11.2-44.6
+Leon Radosevic-4.9-17.7
